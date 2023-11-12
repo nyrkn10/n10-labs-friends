@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Taper Straight Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Taper Straight Regular'), url('Taper-Straight-BF654b8bf78178d.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'Taper Straight Regular';
+        /* font-size: 5em; */
+        font-weight: 200;
+        color: #0ccac4;
+    }
