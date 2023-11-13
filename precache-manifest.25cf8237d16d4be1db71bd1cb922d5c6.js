@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "798f77bfc7171adc2d4c0e38ccc87f67",
+    "revision": "a02d697bfc73f7478eaf103697d2a694",
     "url": "/n10-labs-friends/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/n10-labs-friends/static/css/2.a94b31b9.chunk.css"
   },
   {
-    "revision": "6a0d5025970fbf1dc44c",
+    "revision": "2cc60aff9a7e220f5e90",
     "url": "/n10-labs-friends/static/css/main.d415df26.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/n10-labs-friends/static/js/3.dbb1c9bd.chunk.js"
   },
   {
-    "revision": "6a0d5025970fbf1dc44c",
-    "url": "/n10-labs-friends/static/js/main.389d6ee6.chunk.js"
+    "revision": "2cc60aff9a7e220f5e90",
+    "url": "/n10-labs-friends/static/js/main.74a64810.chunk.js"
   },
   {
     "revision": "338b2abb9c66fc7dfd98",
