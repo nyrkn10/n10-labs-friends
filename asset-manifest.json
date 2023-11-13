@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/n10-labs-friends/static/css/main.d415df26.chunk.css",
+    "main.css": "/n10-labs-friends/static/css/main.4c074160.chunk.css",
     "main.js": "/n10-labs-friends/static/js/main.74a64810.chunk.js",
     "main.js.map": "/n10-labs-friends/static/js/main.74a64810.chunk.js.map",
     "runtime-main.js": "/n10-labs-friends/static/js/runtime-main.af497d45.js",
@@ -11,10 +11,10 @@
     "static/js/3.dbb1c9bd.chunk.js": "/n10-labs-friends/static/js/3.dbb1c9bd.chunk.js",
     "static/js/3.dbb1c9bd.chunk.js.map": "/n10-labs-friends/static/js/3.dbb1c9bd.chunk.js.map",
     "index.html": "/n10-labs-friends/index.html",
-    "precache-manifest.25cf8237d16d4be1db71bd1cb922d5c6.js": "/n10-labs-friends/precache-manifest.25cf8237d16d4be1db71bd1cb922d5c6.js",
+    "precache-manifest.fd56405ba4f75c37153f66879fdef468.js": "/n10-labs-friends/precache-manifest.fd56405ba4f75c37153f66879fdef468.js",
     "service-worker.js": "/n10-labs-friends/service-worker.js",
     "static/css/2.a94b31b9.chunk.css.map": "/n10-labs-friends/static/css/2.a94b31b9.chunk.css.map",
-    "static/css/main.d415df26.chunk.css.map": "/n10-labs-friends/static/css/main.d415df26.chunk.css.map",
+    "static/css/main.4c074160.chunk.css.map": "/n10-labs-friends/static/css/main.4c074160.chunk.css.map",
     "static/js/2.a36be8cc.chunk.js.LICENSE.txt": "/n10-labs-friends/static/js/2.a36be8cc.chunk.js.LICENSE.txt",
     "static/media/App.css": "/n10-labs-friends/static/media/Taper-Straight-BF654b8bf78178d.5dfa266e.woff"
   },
@@ -22,7 +22,7 @@
     "static/js/runtime-main.af497d45.js",
     "static/css/2.a94b31b9.chunk.css",
     "static/js/2.a36be8cc.chunk.js",
-    "static/css/main.d415df26.chunk.css",
+    "static/css/main.4c074160.chunk.css",
     "static/js/main.74a64810.chunk.js"
   ]
 }
