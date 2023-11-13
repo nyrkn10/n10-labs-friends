@@ -4,8 +4,9 @@
         <div style={
             { 
         overflow: 'scroll',
-         border:'1px solid black',
-          height: '500px'
+          height: '500px',
+          width: '98%',
+          margin: '10px'
         }
           }>
             {props.children}
