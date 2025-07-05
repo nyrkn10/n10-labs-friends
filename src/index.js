@@ -5,14 +5,17 @@ import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 import App from './containers/App';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-
-  <App/>
-
-  </React.StrictMode>
-);
+const container = document.getElementById('root');
+if (container) {
+  const root = ReactDOM.createRoot(container);
+  root.render(
+    <React.StrictMode>
+      <App/>
+    </React.StrictMode>
+  );
+} else {
+  throw new Error("Root element with id 'root' not found.");
+}
 
 
 
